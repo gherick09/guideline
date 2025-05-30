@@ -1,4 +1,4 @@
-# guidline
+# guideline
 dotnet new webapi -n EmployeeApi
 cd EmployeeApi
 dotnet run
